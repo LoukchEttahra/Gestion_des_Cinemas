@@ -1,2 +1,6 @@
 # Gestion_des_Cinemas
-Un projet Web et Mobile JEE : Spring /Angular ,Front et Back End (Gestion des cinémas )
+1 télécharger le projet en zip 
+2 dézipper le projet 
+3 importer le projet dans un éditeur de text comme Eclipse .. 
+
+
